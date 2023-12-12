@@ -1,0 +1,32 @@
+/* src/styles/Notification.css */
+.notification-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
+
+.notification {
+  background-color: #4caf50;
+  color: white;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.notificationButton {
+  background-color: #007a99;
+  color: white;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 0px;
+}
+
+.notificationButton:hover {
+  cursor: pointer;
+}
+
+.messageInput {
+  padding: 0.5rem;
+  margin-right: 1rem;
+}
