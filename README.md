@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Your Name]
+Vijesh Chaudhari
 
 Feel free to reach out if you have any questions or suggestions.
 
